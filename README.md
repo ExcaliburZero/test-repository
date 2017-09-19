@@ -5,3 +5,4 @@ This is a test repository for the SUNY Oswego CSA Git Workshop.
 * Sergio Valoy
 * Josh Harkness
 * Jannik Gößling
+* Jeffrey Johnson
