@@ -10,3 +10,4 @@ This is a test repository for the SUNY Oswego CSA Git Workshop.
 * Jim Spagnola III
 * Michael Palmateer
 * Kimaathi Haligah
+* Nathan O'Leary
