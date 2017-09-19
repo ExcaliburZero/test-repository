@@ -14,3 +14,4 @@ This is a test repository for the SUNY Oswego CSA Git Workshop.
 * Kate Gordon
 * Daniel Munoz
 * Heng-Hao Pu
+* Nathan O'Leary
