@@ -16,3 +16,4 @@ This is a test repository for the SUNY Oswego CSA Git Workshop.
 * Heng-Hao Pu
 * Nathan O'Leary
 * Calvin Lawrence
+* Steven Stevenson
