@@ -18,3 +18,4 @@ This is a test repository for the SUNY Oswego CSA Git Workshop.
 * Gaetano Bruscino
 * Calvin Lawrence
 * Steven Stevenson
+* Benjamin Groman
